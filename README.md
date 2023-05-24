@@ -1,8 +1,8 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Dharanidaran</h1>
 <h3 align="center">Machine Learning Engineer | Data Scientist</h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/dharanidharang07/" target="_blank"><img align="center" alt="dharanidharan" height="30" width="40" /></a>  
-  <a href="mailto:gdharanidharan07@gmail.com" target="_blank"><img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/dharanidharang07/" target="_blank"><img align="center" alt="LinkedIn" height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" style="filter: invert(30%);" /></a>  
+  <a href="mailto:gdharanidharan07@gmail.com" target="_blank"><img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="40" width="40" /></a>
 </p>
 
 <p align="center">
@@ -19,7 +19,7 @@
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
 
-✔ Experienced in using Machine Learnign Algorithms, Deep Learning Algorithms
+✔ Experienced in using Machine Learnign Algorithms, Deep Learning Algorithms <br>
 ✔ I’m currently learning about **Bigdata tool and Computer Vision**🥰<br>
 ✔ Fun fact : *I Always try to learn something new and then sleep till it store in the brain* 😎<br><br><br><br>
  
