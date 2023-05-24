@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Dharanidaran</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Dharanidharan</h1>
 <h3 align="center">Machine Learning Engineer | Data Scientist</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/dharanidharang07/" target="_blank"><img align="center" alt="LinkedIn" height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" style="filter: invert(30%);" /></a>  
